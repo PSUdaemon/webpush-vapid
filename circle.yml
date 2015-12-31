@@ -21,6 +21,5 @@ test:
 
 deployment:
   production:
-    branch: master
     commands:
       - make ghpages
